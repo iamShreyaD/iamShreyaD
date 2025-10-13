@@ -4,11 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently working on **fullstack responsive MERN app**
+- 🔭 I’m currently working on my **Data Analyst Portfolio**
 
-- 🌱 I’m currently learning **React Native and JavaScript**
-
-- 💬 Ask me about **Python, Java, HTML, CSS**
+- 💬 Ask me about **SQL, Excel, Python, Power BI, Tableau**
 
 - 📫 How to reach me **shreyabdeshpande1@gmail.com**
 
