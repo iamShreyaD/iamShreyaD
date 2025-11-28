@@ -4,13 +4,12 @@
 <h3 align="center">I have recently completed my BS from the University of Toledo 🎓</h3>
 
 
-<h4 align="center"> 🔭 I’m currently working on my **Data Analyst Portfolio**</h4>
+<h4 align="center"> 🔭 I’m currently working on my **Data Analyst Portfolio</h4>
 
-<h4 align="center"> 💬 Ask me about **SQL, Excel, Python, Power BI, Tableau**</h4>
+<h4 align="center"> 💬 Ask me about **SQL, Excel, Python, Power BI, Tableau</h4>
 
-<h4 align="center"> 📫 How to reach me **shreyabdeshpande1@gmail.com**</h4>
+<h4 align="center"> 📫 How to reach me **shreyabdeshpande1@gmail.com</h4>
 
-<h4 align="center"> ⚡ Fun fact **I speak 5 languages**</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
