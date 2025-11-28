@@ -4,7 +4,7 @@
 <h3 align="center">I have recently completed my BS from the University of Toledo 🎓</h3>
 
 
-- 🔭 I’m currently working on my **Data Analyst Portfolio**
+<h3 align="center">- 🔭 I’m currently working on my **Data Analyst Portfolio**</h3>
 
 - 💬 Ask me about **SQL, Excel, Python, Power BI, Tableau**
 
