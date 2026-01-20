@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shreya Bajirao Deshpande</h1>
-<h3 align="center">A passionate Data Analyst based in the India</h3>
+<h3 align="center">A passionate Data Scientist based in the India</h3>
 <h3 align="center">I have recently completed my BS from the University of Toledo 🎓</h3>
 
 
